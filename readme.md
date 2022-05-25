@@ -1,4 +1,5 @@
 ## **YOU MUST HAVE A COMPUTER**
+## **YOU MUST ALSO HAVE THE PYTHON 3.10 OR HIGHT [DOWNLOAD LINK](https://www.python.org/downloads/)**
 
 #
 #
