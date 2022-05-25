@@ -3,7 +3,7 @@ import discord
 TOKEN = "CHANGE ME"
 
 client = discord.Client()
-uses_advanced_math = True # advanced_math is able to use () and ** (power) but may not be stable and not secure, be warned
+uses_advanced_math = False # advanced_math is able to use () and ** (power) but may not be stable and not secure, be warned
 
 def numeric(equation):
     if '+' in equation:
